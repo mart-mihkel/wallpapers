@@ -12,5 +12,5 @@ find . -regex '.*\(jpg\|jpeg\|png\)' | sort | while read -r img; do
         last_theme=$theme
     fi
 
-    echo -e "[$img]($img)\n" >> README.md
+    echo -e "![$img]($img)\n" >> README.md
 done
