@@ -5,7 +5,7 @@ echo "# Wallpapers 🖼️" >> README.md
 
 last_theme=""
 find . -regex '.*\(jpg\|jpeg\|png\)' | sort | while read -r img; do
-    theme=$(echo $img | awk -F '-' '{print $1}' | tr -d './')
+    theme=$(echo $img | awk -F '_' '{print $1}' | tr -d './')
 
     if [[ "$theme" != "$last_theme" ]]; then
         echo "## $theme" >> README.md
