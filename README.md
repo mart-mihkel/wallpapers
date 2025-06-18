@@ -81,15 +81,21 @@
 
 ![./nord_orange_mountain.png](./nord_orange_mountain.png)
 
+![./nord_peninsula.jpg](./nord_peninsula.jpg)
+
 ![./nord_red_forest.png](./nord_red_forest.png)
 
 ![./nord_red_mountain.png](./nord_red_mountain.png)
 
 ![./nord_red_sky.png](./nord_red_sky.png)
 
+![./nord_roses.png](./nord_roses.png)
+
 ![./nord_small_flowers.png](./nord_small_flowers.png)
 
 ![./nord_stars.png](./nord_stars.png)
+
+![./nord_statue.png](./nord_statue.png)
 
 ![./nord_sunflowers.jpeg](./nord_sunflowers.jpeg)
 
